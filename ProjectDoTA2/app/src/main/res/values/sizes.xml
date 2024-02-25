@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name = "Background_width">395.dp</dimen>
+    <dimen name = "Background_height">1284.dp</dimen>
+    <dimen name = "Background_image_width">628.dp</dimen>
+    <dimen name = "Background_image_height">354.dp</dimen>
+    <dimen name = "Background_icon_width">158.dp</dimen>
+    <dimen name = "Background_icon_height">165.dp</dimen>
+    <dimen name = "Commentation_icon_width">36.dp</dimen>
+    <dimen name = "Commentation_icon_height">36.dp</dimen>
+    <dimen name = "Commentation_text_width">327.dp</dimen>
+    <dimen name = "Commentation_text_height">60.dp</dimen>
+    <dimen name = "Description_cell1_width">53.dp</dimen>
+    <dimen name = "Description_cell_height">22.dp</dimen>
+    <dimen name = "Description_cell2_width">93.dp</dimen>
+    <dimen name = "Description_cell3_width">73.dp</dimen>
+    <dimen name = "Description_describe_width">327.dp</dimen>
+    <dimen name = "Description_describe_height">76.dp</dimen>
+    <dimen name = "Heading_image_width">76.dp</dimen>
+    <dimen name = "Heading_image_height">12.dp</dimen>
+    <dimen name = "InstallationButton_image_width">327.dp</dimen>
+    <dimen name = "InstallationButton_image_height">64.dp</dimen>
+    <dimen name = "PictureFeed_image_width">240.dp</dimen>
+    <dimen name = "PictureFeed_image_height">128.dp</dimen>
+    <dimen name = "PictureFeed_play_button_width">48.dp</dimen>
+    <dimen name = "PictureFeed_play_button_height">48.dp</dimen>
+    <dimen name = "PictureFeed_play_icon_width">24.dp</dimen>
+    <dimen name = "PictureFeed_play_icon_height">24.dp</dimen>
+    <dimen name = "Ratings_image_width">76.dp</dimen>
+    <dimen name = "Ratings_image_height">12.dp</dimen>
+    <dimen name = "Review_vector_width">300.dp</dimen>
+    <dimen name = "Review_vector_height">0.dp</dimen>
+
+
+
+
+
+
+
+
+</resources>
